@@ -16,5 +16,5 @@ AutoSlide is a Python-based AI assistant that generates concise, structured, and
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/autoslide-ai.git
+git clone ----
 run streamlit run app.py
