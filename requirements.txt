@@ -1,6 +1,6 @@
 flask
-transformers==4.38.2
-torch==2.2.2
+transformers
+torch
 python-pptx
 azure-storage-blob
 python-dotenv
